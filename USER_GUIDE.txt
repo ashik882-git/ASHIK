@@ -1,0 +1,15 @@
+CMS MOBILE — COMPACT GUIDE
+
+1. This is a mobile-first web app/PWA for the official CRIS CMS.
+2. Host the files on an HTTPS site (GitHub Pages or Netlify).
+3. Open the HTTPS address in Chrome Android.
+4. Chrome menu -> Install app / Add to Home screen.
+5. Open the new CMS Mobile icon.
+6. Use the shortcuts or Search.
+7. Tap CMS to open the official Railway CMS login.
+8. Enter your normal CMS credentials only on cms.indianrail.gov.in.
+
+IMPORTANT:
+A normal HTML/PWA cannot bypass X-Frame-Options or CSP frame restrictions. If CRIS permits embedding, the CMS stays inside the app panel. If CRIS blocks embedding, a native WebView/authorised integration is required for a fully in-app experience.
+
+No Railway credentials are included or stored by this project.
